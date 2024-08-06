@@ -1,0 +1,15 @@
+NOTE:	Infty	denotes infinity.
+HINT: You can format numbers as fractions in excel.
+Max 6 X +4 Y + Z1 + Z2
+Subject To
+ 6 X +8 Y <= 12
+ 10 X +5 Y <= 10
+free: Z1, Z2
+End
+Start Phase II.
+[0]	(RHS)	X	Y	Z1	!Z1	Z2	!Z2	$1	$2
+sigma	=0	=6	=4	=1	=-1	=1	=-1	=0	=0
+$1	=12	=6	=8	=0	=0	=0	=0	=1	=0
+$2	=10	=10	=5	=0	=0	=0	=0	=0	=1
+Infinite solutionn!
+
